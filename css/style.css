@@ -1,0 +1,41 @@
+body {
+    background-image: url(../images/top.jpg);
+    background-size: cover;
+}
+
+.card {
+    background-color: aliceblue;
+    color: #333;
+    padding: 30px;
+    margin: 50px;
+    opacity: 0.9;
+}
+
+.table {
+    color: #666666;
+}
+
+.form {
+    margin: 30px;
+}
+
+.comment {
+    margin: 20px;
+}
+
+.comment-content {
+    font-size: 20px;
+}
+
+.comment-name {
+    color: #999999;
+}
+
+i {
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+
+#gallery {
+    opacity: 1.0 !important;
+}
